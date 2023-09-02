@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* App Container */
+.web-container {
+  font-family: Arial;
+  margin: 0;
+  padding: 0;
+  background-color: whitesmoke;
+}
+
+/* Header Styling */
+.web-header {
+  background-color: gray;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.web-header a {
+  color: white;
+  text-decoration: none;
+}
+
+/* Main Content Styling */
+.web-main {
+  padding: 20px;
+  display: flex;
+}
+
+.web-section {
+  width: 48%;
+  background-color: white;
+  padding: 20px;
+}
+
+/* Aside Styling */
+.web-aside {
+  background-color: gray;
+  padding: 20px;
+}
+
+/* Footer Styling */
+.web-footer {
+  background-color: gray;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
